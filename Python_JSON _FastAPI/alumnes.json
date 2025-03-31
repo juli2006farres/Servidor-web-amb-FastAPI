@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "nom": "Joan",
+        "cognom": "Garcia",
+        "data": {
+            "dia": 15,
+            "mes": 6,
+            "any": 2002
+        },
+        "email": "joan.garcia@example.com",
+        "feina": true,
+        "curs": "Matem\u00c3\u00a0tiques"
+    },
+    {
+        "id": 2,
+        "nom": "Maria",
+        "cognom": "Lopez",
+        "data": {
+            "dia": 22,
+            "mes": 3,
+            "any": 2001
+        },
+        "email": "maria.lopez@example.com",
+        "feina": false,
+        "curs": "Inform\u00c3\u00a0tica"
+    },
+    {
+        "id": 3,
+        "nom": "Pere",
+        "cognom": "Martinez",
+        "data": {
+            "dia": 10,
+            "mes": 11,
+            "any": 2003
+        },
+        "email": "pere.martinez@example.com",
+        "feina": true,
+        "curs": "F\u00c3\u00adsica"
+    },
+    {
+        "id": 4,
+        "nom": "Anna",
+        "cognom": "S\u00c3\u00a1nchez",
+        "data": {
+            "dia": 5,
+            "mes": 7,
+            "any": 2002
+        },
+        "email": "anna.sanchez@example.com",
+        "feina": false,
+        "curs": "Qu\u00c3\u00admica"
+    },
+    {
+        "id": 5,
+        "nom": "Marc",
+        "cognom": "Rodr\u00c3\u00adguez",
+        "data": {
+            "dia": 30,
+            "mes": 1,
+            "any": 2001
+        },
+        "email": "marc.rodriguez@example.com",
+        "feina": true,
+        "curs": "Biologia"
+    }
+]
